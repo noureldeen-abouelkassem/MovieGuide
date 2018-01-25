@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieGuide</string>
+    <string name="popular_menu_item">Popular</string>
+    <string name="top_rated_menu_item">Top Rated</string>
+    <string name="iv_content_desc">moviePoster</string>
+    <string name="movieItem_ContentDescriptor">Movie Poster</string>
+    <string name="searchType"></string>
+    <string name="ivPlayButton">Play Button</string>
+    <string name="tv_over_view">Overview</string>
+    <string name="tv_movie_reviews">Reviews</string>
+    <string name="tv_movie_videos">Trailers</string>
+    <string name="favorite_menu_item">FAVORITES</string>
+    <string name="favoriteButton_conten_desc">add to favorites</string>
+</resources>
